@@ -5,3 +5,7 @@ main:
 
   - title: "Group members"
     url: /groupmembers/
+
+  - title: "Resources"
+    url: /resources/
+

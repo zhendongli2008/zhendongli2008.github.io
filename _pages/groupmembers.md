@@ -5,7 +5,7 @@ permalink: /groupmembers/
 author_profile: true
 ---
 
-### Current members ###
+## Current members
 
 - Xiaoxiao Xiao (肖小小)
 - Zibo Wu (吴子博）
@@ -14,7 +14,7 @@ author_profile: true
 - Hongbo Wang (王宏博) 
 - Bohan Zhang (张博涵)
 
-### Former members ###
+## Former members
 
 - Diandong Tang (汤典东)
 - Ruijuan Hou (侯瑞娟)
