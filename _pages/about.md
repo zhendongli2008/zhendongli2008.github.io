@@ -14,14 +14,12 @@ I obtained my B.S. in Chemistry and Mathematics at the Peking University, China,
 
 My current interests lie in understanding the structure of quantum many-body wavefunctions through the lens of perturbation theories, tensor network, neural networks, and quantum computing. Some topics we are working on include:
 
-- methods for strong correlation based on locality
-- wavefunction ansatz inspired from neural networks
-- wavefunction ansatz for quantum computing
-- gpu accelerated density matrix renormalization group algorithm
+- Methods for strong correlation based on locality
+- Novel wavefunction ansatz inspired from neural networks
+- Scalable wavefunction ansatz for quantum computing
+- GPU accelerated density matrix renormalization group algorithm
 
 ## Openings
 
-We are looking for self-motivated and talented students and postdocs, who are interested in the development and application of electronic structure methods. If you have a strong background in physical chemistry, computational physics, applied math, or computer programming, we encourage you to apply by sending email along with your CV and a brief description of research skills.
-
-fundamental aspects of quantum chemistry, in particular, the question about how to push the boundary of theoretical simulations to larger systems with unprecedented higher accuracy by leveraging new developments from quantum information, applied mathematics, and computer architecture.
+We are looking for self-motivated and talented students and postdocs, who are interested in the development and application of electronic structure methods. If you have a strong background in physical chemistry, computational physics, applied math, or computer programming, we encourage you to apply by sending an email along with your CV and a brief description of research skills.
 
