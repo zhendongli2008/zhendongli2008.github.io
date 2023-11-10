@@ -16,6 +16,7 @@ author_profile: true
 ## Writings
 
 - [overleaf](https://www.overleaf.com/): online latex editor
+- plot: matplotlib, seaborn, ...
 
 ## Programming and Software
 
