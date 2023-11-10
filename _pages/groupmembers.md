@@ -9,7 +9,7 @@ author_profile: true
 
 - Yuqi Wang (王雨奇) 博士后
 - Xiaoxiao Xiao (肖小小) 博士生
-- Zibo Wu (吴子博）博士生
+- Zibo Wu (吴子博) 博士生
 - Hewang Zhao (赵贺旺) 博士生
 - Longfei Chang (常泷飞) 直博生
 - Hongbo Wang (王宏博) 硕士生
