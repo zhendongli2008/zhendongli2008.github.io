@@ -23,7 +23,7 @@ We are the first to develop quantum algorithms for molecular response properties
 
 Reference:
 
-1. X. Cai, W.-H. Fang, H. Fan, Z. Li, Phys. Rev. Research 2, 033324 (2020)
+1. X. Cai, W.-H. Fang, H. Fan, Z. Li, Phys. Rev. Res. 2, 033324 (2020)
 
 2. K. Huang, et al. J. Phys. Chem. Lett. 13, 9114-9121 (2022) 
 
@@ -35,9 +35,9 @@ We developed the first distributed multi-GPU ab initio DMRG algorithm[1], and pr
 
 Reference:
 
-1. Chunyang Xiang, Weile Jia, Wei-Hai Fang, Zhendong Li, arXiv:2311.02854
+1. C. Xiang, W. Jia, W.-H. Fang, Z. Li, arXiv:2311.02854
 
-2. Zhendong Li, J. Chem. Phys. 158, 044119 (2023)
+2. Z. Li, J. Chem. Phys. 158, 044119 (2023)
 
 
 ## 3. Unconventional wavefunction ansatz inspired from neural networks
