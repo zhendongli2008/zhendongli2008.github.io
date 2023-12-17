@@ -10,14 +10,14 @@ redirect_from:
 
 I obtained my B.S. in Chemistry and Mathematics at the Peking University, China, in 2009, and received my Ph.D. at the Peking University in Quantum Chemistry in 2014, where I worked with Prof. Wenjian Liu on the developments of theoretical methods for excited states of open-shell molecules, relativistic quantum chemistry, and group theoretical approaches for symbolic algebra for tensor expressions. I joined Prof. Garnet Chan’s group as a postdoc at Princeton University in 2014 and then moved to Caltech in 2016, where I worked on the development of new numerical methods based on tensor network states such as the matrix product states for the strong electron correlation problem as well as applications of these tools to challenging metalloenzymes. In 2019, I joined Beijing Normal University as a professor in College of Chemistry. 
 
-## Research Interest
+## Research Interests
 
-My current interests lie in understanding the structure of quantum many-body wavefunctions through the lens of perturbation theories, tensor network, neural networks, and quantum computing. Some topics we are working on include:
+Our current interests lie in understanding the structure of quantum many-body wavefunctions through the lens of perturbation theories, tensor network, neural networks, and quantum computing. Some topics we are working on include:
 
-- Methods for strong correlation based on locality
-- Novel wavefunction ansatz inspired from neural networks
-- Scalable wavefunction ansatz for quantum computing
-- GPU accelerated density matrix renormalization group algorithm
+- Quantum algorithms for electronic structure problems
+- High performance computing for strong electron correlation
+- Unconventional wavefunction ansatz inspired from neural networks
+- Novel methods for strong correlation based on locality
 
 ## Openings
 
