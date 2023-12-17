@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Chemical systems with transition metal centers have fascinating functionalities in catalysis and illuminessence. However, these systems remain difficult to be studied computationally. From the electronic structure aspect, the main theoretical challenges involve:
+Chemical systems with transition metal centers have fascinating functionalities in catalysis, illuminessence, and quantum information science. However, these systems remain difficult to be studied computationally. From the electronic structure aspect, the main theoretical challenges involve:
 
 **1. Strong correlation**: requiring efficient methods for large active space (~100 d/f orbitals)
 
