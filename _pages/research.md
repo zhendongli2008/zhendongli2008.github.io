@@ -5,15 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Chemical systems with transition metal centers have fascinating functionalities in catalysis and illuminessence. However, these systems remain difficult to be studied computationaly. From the electronic structure aspect, major theoretical challenges involve:
+Chemical systems with transition metal centers have fascinating functionalities in catalysis and illuminessence. However, these systems remain difficult to be studied computationally. From the electronic structure aspect, the main theoretical challenges involve:
 
-1. **Strong correlation**: requiring efficient methods for large active space (~100 d/f orbitals)
-2. **Dynamic correlation**: requiring nonperturbative, beyond MRPT2 for chemical accuracy
-3. **Excited states**: requiring a balanced treatment for different types of excitations (local and delocalized)
-4. **Spectroscopies** (EPR/X-ray/Mössbauer): requiring relativistic effects (SOC)
-5. **Environments**: requiring the ability to handle large systems
+**1. Strong correlation**: requiring efficient methods for large active space (~100 d/f orbitals)
+**2. Dynamic correlation**: requiring nonperturbative methods beyond MRPT2 for chemical accuracy
+**3. Excited states**: requiring a balanced treatment for different types of excitations (local and delocalized)
+**4. Spectroscopies**: requiring relativistic effects in particular spin-orbit couplings (EPR/X-ray/Mössbauer)
+**5. Environments**: requiring the ability to handle large systems
 
-We are interested in developing new electronic methods for describing these strongly correlated systems in chemistry based on new insights and technologies from condense matter physics, artificial intelligence, and quantum computing. If you are interested in this direction, you can find our articles on [Google Scholar profile](https://scholar.google.com/citations?user=MYZZUJ0AAAAJ&hl=en). Topics we are currently working on includes:
+We are interested in developing new electronic methods for describing these strongly correlated systems in chemistry based on new insights and technologies from condense matter physics, artificial intelligence, and quantum computing. If you find it interesting and exciting, you can find our articles on [Google Scholar profile](https://scholar.google.com/citations?user=MYZZUJ0AAAAJ&hl=en). Topics we are currently working on includes:
 
 ## 1. Quantum algorithms for electronic structure problems
 
