@@ -13,6 +13,12 @@ author_profile: true
 
 - **Many-Body Methods in Chemistry and Physics: MBPT and Coupled-Cluster Theory** by Isaiah Shavitt and Rodney J. Bartlett
 
+- **Nonequilibrium Many-Body Theory of Quantum Systems: A Modern Introduction** by Gianluca Stefanucci and Robert van Leeuwen 
+
+- **Quantum Computation and Quantum Information** by Michael A. Nielsen and Isaac L. Chuang
+
+- **Deep learning** by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+
 ## Reviews
 
 - [The density-matrix renormalization group in the age of matrix product states](https://www.sciencedirect.com/science/article/abs/pii/S0003491610001752) by U. Schollwöck
