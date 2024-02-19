@@ -31,6 +31,8 @@ Reference:
 
 2. K. Huang, et al. J. Phys. Chem. Lett. 13, 9114-9121 (2022) 
 
+3. X. Xiao, et al. J. Chem. Theory Comput. asap (2024)
+
 ## 2. High performance computing for strong electron correlation
 
 We developed the first distributed multi-GPU ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2].
@@ -39,10 +41,11 @@ We developed the first distributed multi-GPU ab initio DMRG algorithm[1], and pr
 
 Reference:
 
-1. C. Xiang, W. Jia, W.-H. Fang, Z. Li, arXiv:2311.02854
+1. C. Xiang, W. Jia, W.-H. Fang, Z. Li, J. Chem. Theory Comput. 20, 775-786 (2024)
 
 2. Z. Li, J. Chem. Phys. 158, 044119 (2023)
 
+3. Z. Li, Electron. Struct. 3, 014001 (2021)
 
 ## 3. Unconventional wavefunction ansatz inspired from neural networks
 

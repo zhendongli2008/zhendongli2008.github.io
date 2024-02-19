@@ -22,8 +22,10 @@ author_profile: true
 ## Reviews
 
 - [The density-matrix renormalization group in the age of matrix product states](https://www.sciencedirect.com/science/article/abs/pii/S0003491610001752) by U. Schollwöck
-- [Quantum computational chemistry](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.92.015003) by Sam McArdle, Suguru Endo, Alán Aspuru-Guzik, Simon C. Benjamin, and Xiao Yuan
-- [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) by Jan Hermann, James Spencer, Kenny Choo, Antonio Mezzacapo, W. M. C. Foulkes, David Pfau, Giuseppe Carleo & Frank Noé
+- [Low entanglement wavefunctions](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1095) by G. K.-L. Chan
+- [A practical introduction to tensor networks: Matrix product states and projected entangled pair states](https://www.sciencedirect.com/science/article/abs/pii/S0003491614001596) by R. Orús
+- [Quantum computational chemistry](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.92.015003) by S. McArdle, S. Endo, A. Aspuru-Guzik, S. C. Benjamin, and X. Yuan
+- [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) by J. Hermann, J. Spencer, K. Choo, A. Mezzacapo, W. M. C. Foulkes, D. Pfau, G. Carleo & F. Noé
 
 ## Talks
 
