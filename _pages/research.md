@@ -21,7 +21,7 @@ We are interested in developing new electronic methods for describing these stro
 
 ## 1. Quantum algorithms for electronic structure problems
 
-We are the first to develop quantum algorithms for molecular response properties[1] and perform real experimental simulation of molecular absorption spectra on quantum hardware[2].
+We are the first to develop quantum algorithms for molecular response properties[1] and perform real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are also interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4].
 
 <img src="../images/vqr.jpeg" width="500">
 
@@ -33,9 +33,11 @@ Reference:
 
 3. X. Xiao, et al. J. Chem. Theory Comput. asap (2024)
 
+4. S. Zhao, et al. arXiv:2402.12708
+
 ## 2. High performance computing for strong electron correlation
 
-We developed the first distributed multi-GPU ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2].
+We developed the first distributed multi-GPU ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2]. We are also interested in exploring tensor network states beyond matrix product states[3].
 
 <img src="../images/dmrg.jpg" width="500">
 
