@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Chemical systems with transition metal centers have fascinating functionalities in catalysis, illuminessence, and quantum information science. However, these systems remain difficult to be studied computationally. From the electronic structure aspect, the main theoretical challenges involve:
+Chemical systems with transition metal centers have fascinating functionalities in catalysis, illuminessence, and quantum information science. However, these systems are extremely challenging for computational studies. From the electronic structure aspect, the main theoretical bottlenecks involve:
 
 **1. Strong correlation**: requiring efficient methods for large active space (~100 d/f orbitals)
 
@@ -17,11 +17,11 @@ Chemical systems with transition metal centers have fascinating functionalities 
 
 **5. Environments**: requiring the ability to handle large systems
 
-We are interested in developing new electronic methods for describing these strongly correlated systems in chemistry based on new insights and technologies from condense matter physics, artificial intelligence, and quantum computing. If you find it interesting and exciting, you can find our articles on [Google Scholar profile](https://scholar.google.com/citations?user=MYZZUJ0AAAAJ&hl=en). Topics we are currently working on includes:
+In our group, we develop new methods and computational tools for dealing with these strongly correlated systems in chemistry based on new insights and technologies from other areas, such as condense matter physics, artificial intelligence, and quantum computing. If you find this interesting and exciting, you can find our articles on [Google Scholar profile](https://scholar.google.com/citations?user=MYZZUJ0AAAAJ&hl=en). Topics we are currently working on include:
 
 ## 1. Quantum algorithms for electronic structure problems
 
-We are the first to develop quantum algorithms for molecular response properties[1] and perform real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are also interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4].
+We are the first to develop quantum algorithms for molecular response properties[1] and performed real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4].
 
 <img src="../images/vqr.jpeg" width="500">
 
@@ -31,13 +31,13 @@ Reference:
 
 2. K. Huang, et al. J. Phys. Chem. Lett. 13, 9114-9121 (2022) 
 
-3. X. Xiao, et al. J. Chem. Theory Comput. asap (2024)
+3. X. Xiao, et al. J. Chem. Theory Comput. 20, 1912-1922 (2024)
 
 4. S. Zhao, et al. arXiv:2402.12708
 
 ## 2. High performance computing for strong electron correlation
 
-We developed the first distributed multi-GPU ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2]. We are also interested in exploring tensor network states beyond matrix product states[3].
+We developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2]. These powerful tools will lead to quantitative accuracy for polynuclear transition metal complexes using the state-of-the-art AI hardware. We are also interested in exploring tensor network states beyond matrix product states[3].
 
 <img src="../images/dmrg.jpg" width="500">
 
