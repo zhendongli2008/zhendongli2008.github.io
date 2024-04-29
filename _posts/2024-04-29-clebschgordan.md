@@ -18,5 +18,7 @@ $$
 $$
 
 $$
+\begin{eqnarray}
 \langle j_{1}\,m_{1}\,j_{2}\,m_{2}|J\,M\rangle &=(-1)^{j_{1}+j_{2}-J}\langle j_{1}\,(-m_{1})\,j_{2}\,(-m_{2})|J\,(-M)\rangle \\&=(-1)^{j_{1}+j_{2}-J}\langle j_{2}\,m_{2}\,j_{1}\,m_{1}|J\,M\rangle \\&=(-1)^{j_{1}-m_{1}}{\sqrt {\frac {2J+1}{2j_{2}+1}}}\langle j_{1}\,m_{1}\,J\,(-M)|j_{2}\,(-m_{2})\rangle \\&=(-1)^{j_{2}+m_{2}}{\sqrt {\frac {2J+1}{2j_{1}+1}}}\langle J\,(-M)\,j_{2}\,m_{2}|j_{1}\,(-m_{1})\rangle \\&=(-1)^{j_{1}-m_{1}}{\sqrt {\frac {2J+1}{2j_{2}+1}}}\langle J\,M\,j_{1}\,(-m_{1})|j_{2}\,m_{2}\rangle \\&=(-1)^{j_{2}+m_{2}}{\sqrt {\frac {2J+1}{2j_{1}+1}}}\langle j_{2}\,(-m_{2})\,J\,M|j_{1}\,m_{1}\rangle
+\end{eqnarray}
 $$
