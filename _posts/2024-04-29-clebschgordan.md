@@ -16,3 +16,7 @@ $
 $
 {\displaystyle {\begin{aligned}\langle j_{1}\,m_{1}\,j_{2}\,m_{2}|J\,M\rangle &=(-1)^{j_{1}+j_{2}-J}\langle j_{1}\,(-m_{1})\,j_{2}\,(-m_{2})|J\,(-M)\rangle \\&=(-1)^{j_{1}+j_{2}-J}\langle j_{2}\,m_{2}\,j_{1}\,m_{1}|J\,M\rangle \\&=(-1)^{j_{1}-m_{1}}{\sqrt {\frac {2J+1}{2j_{2}+1}}}\langle j_{1}\,m_{1}\,J\,(-M)|j_{2}\,(-m_{2})\rangle \\&=(-1)^{j_{2}+m_{2}}{\sqrt {\frac {2J+1}{2j_{1}+1}}}\langle J\,(-M)\,j_{2}\,m_{2}|j_{1}\,(-m_{1})\rangle \\&=(-1)^{j_{1}-m_{1}}{\sqrt {\frac {2J+1}{2j_{2}+1}}}\langle J\,M\,j_{1}\,(-m_{1})|j_{2}\,m_{2}\rangle \\&=(-1)^{j_{2}+m_{2}}{\sqrt {\frac {2J+1}{2j_{1}+1}}}\langle j_{2}\,(-m_{2})\,J\,M|j_{1}\,m_{1}\rangle \end{aligned}}}
 $
+
+$
+{\displaystyle \sum _{m}(-1)^{j-m}\langle j\,m\,j\,(-m)|J\,0\rangle =\delta _{J,0}{\sqrt {2j+1}}}
+$
