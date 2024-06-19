@@ -8,7 +8,6 @@ author_profile: true
 ## Current members
 
 - Yuqi Wang (王雨奇) 博士后
-- Xiaoxiao Xiao (肖小小) 博士生
 - Zibo Wu (吴子博) 博士生
 - Hewang Zhao (赵贺旺) 博士生
 - Longfei Chang (常泷飞) 直博生
@@ -17,8 +16,9 @@ author_profile: true
 
 ## Former members
 
-- Diandong Tang (汤典东) 博士生
-- Ruijuan Hou (侯瑞娟) 硕士生
-- Xiaoxia Cai (蔡肖夏) 博士后
-- Xiao Liu (刘虓) 本科生 
+- Xiaoxiao Xiao (肖小小) 博士生 [北京量子信息科学研究院]
+- Diandong Tang (汤典东) 博士生 [华盛顿大学博士后]
+- Xiaoxia Cai (蔡肖夏) 博士后 [北京量子信息科学研究院]
+- Ruijuan Hou (侯瑞娟) 硕士生 
+- Xiao Liu (刘虓) 本科生 [伯克利分校博士]
 
