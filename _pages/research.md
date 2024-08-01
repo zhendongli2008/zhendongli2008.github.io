@@ -33,7 +33,7 @@ Reference:
 
 3. X. Xiao, et al. J. Chem. Theory Comput. 20, 1912-1922 (2024)
 
-4. S. Zhao, et al. arXiv:2402.12708
+4. S. Zhao, et al. J. Phys. Chem. Lett. 15, 7244-7253 (2024)
 
 ## 2. High performance computing for strong electron correlation
 
