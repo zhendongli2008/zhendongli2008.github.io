@@ -25,7 +25,8 @@ author_profile: true
 - [Low entanglement wavefunctions](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1095) by G. K.-L. Chan
 - [A practical introduction to tensor networks: Matrix product states and projected entangled pair states](https://www.sciencedirect.com/science/article/abs/pii/S0003491614001596) by R. Orús
 - [Quantum computational chemistry](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.92.015003) by S. McArdle, S. Endo, A. Aspuru-Guzik, S. C. Benjamin, and X. Yuan
-- [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) by J. Hermann, J. Spencer, K. Choo, A. Mezzacapo, W. M. C. Foulkes, D. Pfau, G. Carleo & F. Noé
+- [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) by J. Hermann, J. Spencer, K. Choo, A. Mezzacapo, W. M. C. Foulkes, D. Pfau, G. Carleo and F. Noé
+- [An Introduction to Coupled Cluster Theory for Computational Chemists](https://onlinelibrary.wiley.com/doi/10.1002/9780470125915.ch2) by T. Daniel Crawford and H. F. Schaefer III
 
 ## Talks
 
