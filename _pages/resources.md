@@ -27,6 +27,7 @@ author_profile: true
 - [Quantum computational chemistry](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.92.015003) by S. McArdle, S. Endo, A. Aspuru-Guzik, S. C. Benjamin, and X. Yuan
 - [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) by J. Hermann, J. Spencer, K. Choo, A. Mezzacapo, W. M. C. Foulkes, D. Pfau, G. Carleo and F. Noé
 - [An Introduction to Coupled Cluster Theory for Computational Chemists](https://onlinelibrary.wiley.com/doi/10.1002/9780470125915.ch2) by T. Daniel Crawford and H. F. Schaefer III
+- [Perspective: Multireference coupled cluster theories of dynamical electron correlation](https://pubs.aip.org/aip/jcp/article/149/3/030901/196933/Perspective-Multireference-coupled-cluster) F. A. Evangelista
 
 ## Talks
 
