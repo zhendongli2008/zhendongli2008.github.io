@@ -39,7 +39,7 @@ Reference:
 
 We developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2]. These powerful tools will lead to quantitative accuracy for polynuclear transition metal complexes using the state-of-the-art AI hardware. We are also interested in exploring tensor network states beyond matrix product states[3].
 
-<img src="../images/dmrg.jpg" width="550">
+<img src="../images/dmrg.jpg" width="500">
 
 Reference:
 
@@ -53,7 +53,7 @@ Reference:
 
 We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants.
 
-<img src="../images/rpa.png" with="500">
+<img src="../images/rpa.png" with="400">
 
 Reference:
 
