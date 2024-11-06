@@ -49,11 +49,14 @@ Reference:
 
 3. Z. Li, Electron. Struct. 3, 014001 (2021)
 
-## 3. Unconventional wavefunction ansatz inspired from neural networks
+## 3. Novel dynamical correlation methods for strongly correlated systems based on locality
+
+We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants.
+
+Reference:
+
+1. Y. Wang, W.-H. Fang, Z. Li, arXiv:2410.22990 (2024)
+
+## 4. Unconventional wavefunction ansatz inspired from neural networks
 
 Coming soon
-
-## 4. Novel methods for strong correlation based on locality
-
-Coming soon
-

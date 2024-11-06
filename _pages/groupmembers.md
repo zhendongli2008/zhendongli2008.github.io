@@ -8,7 +8,6 @@ author_profile: true
 ## Current members
 
 - Yuqi Wang (王雨奇) 博士后
-- Yanzhao Lu (路艳朝) 博士后
 - Zibo Wu (吴子博) 博士生
 - Hewang Zhao (赵贺旺) 博士生
 - Longfei Chang (常泷飞) 直博生
