@@ -39,7 +39,7 @@ Reference:
 
 We developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[1], and proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2]. These powerful tools will lead to quantitative accuracy for polynuclear transition metal complexes using the state-of-the-art AI hardware. We are also interested in exploring tensor network states beyond matrix product states[3].
 
-<img src="../images/dmrg.jpg" width="500">
+<img src="../images/dmrg.jpg" width="550">
 
 Reference:
 
