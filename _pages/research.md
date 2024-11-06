@@ -23,7 +23,7 @@ In our group, we develop new methods and computational tools for dealing with th
 
 We are the first to develop quantum algorithms for molecular response properties[1] and performed real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4].
 
-<img src="../images/vqr.jpeg" width="500">
+<img src="../images/vqr.jpeg" width="400">
 
 Reference:
 
