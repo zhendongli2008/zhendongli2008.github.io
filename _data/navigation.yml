@@ -3,14 +3,18 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Group members"
     url: /groupmembers/
+
+  - title: "Teaching"
+    url: /teaching/    
 
   - title: "Resources"
     url: /resources/
 
   - title: "Notes"
     url: /posts/
+
+  - title: "Software"
+    url: /software/
+
