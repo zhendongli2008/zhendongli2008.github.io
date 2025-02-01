@@ -11,10 +11,10 @@ main:
 
   - title: "Resources"
     url: /resources/
+  
+  - title: "Software"
+    url: /software/
 
   - title: "Notes"
     url: /posts/
-
-  - title: "Software"
-    url: /software/
 

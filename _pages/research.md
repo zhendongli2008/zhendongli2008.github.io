@@ -49,16 +49,19 @@ Reference:
 
 3. Z. Li, Electron. Struct. 3, 014001 (2021)
 
-## 3. Novel dynamical correlation methods for strongly correlated systems based on locality
+## 3. Diagrammatic methods for dynamical correlation 
 
-We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants.
+We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation (MR-RPA), which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants. This is an extension of our previous work on stochastic MBPT[2], which uses time-dependent diagrammatic formulation and Monte Carlo algorithm to compute high-order corrections.
 
-<img src="../images/rpa.png" with="400">
+<img src="../images/rpa.png" with="300">
 
 Reference:
 
 1. Y. Wang, W.-H. Fang, Z. Li, arXiv:2410.22990 (2024)
 
-## 4. Unconventional wavefunction ansatz inspired from neural networks
+2. Z. Li, J. Chem. Phys. 151, 244114 (2019)
 
-Coming soon
+## 4. Wavefunction ansatz inspired by neural networks
+
+## 5. Excited state methods based on wavefunction and time-dependent density functional theory
+
