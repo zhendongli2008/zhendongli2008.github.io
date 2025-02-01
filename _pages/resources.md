@@ -5,6 +5,10 @@ permalink: /resources/
 author_profile: true
 ---
 
+## Codes
+
+- [HF, DFT, FCI](https://github.com/zhendongli2008/Teaching-Codes)
+
 ## Books
 
 - **Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory** by Attila Szabo and Neil S. Ostlund
