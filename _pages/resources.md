@@ -5,10 +5,6 @@ permalink: /resources/
 author_profile: true
 ---
 
-## Codes
-
-- [HF, DFT, FCI](https://github.com/zhendongli2008/Teaching-Codes)
-
 ## Books
 
 - **Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory** by Attila Szabo and Neil S. Ostlund
@@ -60,4 +56,8 @@ author_profile: true
 - [C++](https://en.cppreference.com/w/)
 - GPU: cuda, cublas, magma, ...
 - Mathematica
+
+## Codes
+
+- [HF, DFT, MP2, FCI](https://github.com/zhendongli2008/Teaching-Codes) by Peng Bao
 
