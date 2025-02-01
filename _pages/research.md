@@ -53,7 +53,7 @@ Reference:
 
 We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation (MR-RPA), which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants. This is an extension of our previous work on stochastic MBPT[2], which uses time-dependent diagrammatic formulation and Monte Carlo algorithm to compute high-order corrections.
 
-<img src="../images/rpa.png" with="300">
+<img src="../images/rpa.png" with="200">
 
 Reference:
 

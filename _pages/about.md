@@ -16,8 +16,9 @@ Our current interests lie in understanding the structure of quantum many-body wa
 
 - Quantum algorithms for electronic structure problems
 - High performance computing for strong electron correlation
-- Unconventional wavefunction ansatz inspired from neural networks
-- Novel methods for strong correlation based on locality
+- Diagrammatic methods for dynamical correlation
+- Wavefunction ansatz inspired from neural networks
+- Excited state methods based on wavefunction and time-dependent density functional theory
 
 ## Openings
 
