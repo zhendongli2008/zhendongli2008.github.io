@@ -19,9 +19,9 @@ Chemical systems with transition metal centers have fascinating functionalities 
 
 In our group, we develop new methods and computational tools for dealing with these strongly correlated systems in chemistry based on new insights and technologies from other areas, such as condense matter physics, artificial intelligence, and quantum computing. If you find this interesting and exciting, you can find our articles on [Google Scholar profile](https://scholar.google.com/citations?user=MYZZUJ0AAAAJ&hl=en). Topics we are currently working on include:
 
-# Strong correlation: novel ans&auml;tze and hardware
+## Strong correlation: novel ans&auml;tze and hardware
 
-## Tensor networks and high performance computing
+### Tensor networks and high performance computing
 
 We are interested in exploring tensor network states (TNS) beyond matrix product states such as comb TNS[1] and those hybridized with neural networks. We proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2], and developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[3]. These powerful tools will lead to quantitative accuracy for polynuclear transition metal complexes[4] using the state-of-the-art AI hardware. 
 
@@ -37,7 +37,7 @@ We are interested in exploring tensor network states (TNS) beyond matrix product
 
 4. Z. Li, S. Guo, Q. Sun, G. K.-L. Chan, Nat. Chem. 11, 1026 (2019)
 
-## Quantum algorithms for electronic structure problems
+### Quantum algorithms for electronic structure problems
 
 We are the first to develop quantum algorithms for molecular response properties[1] and performed real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4].
 
@@ -53,7 +53,7 @@ We are the first to develop quantum algorithms for molecular response properties
 
 4. S. Zhao, et al. J. Phys. Chem. Lett. 15, 7244-7253 (2024)
 
-# Dynamical correlation: diagrammatic multi-reference methods
+## Dynamical correlation: diagrammatic multi-reference methods
 
 We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation (MR-RPA) thorough diagrammatic resummation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants. This is an extension of our previous work on stochastic MBPT[2], which uses time-dependent diagrammatic formulation and Monte Carlo algorithm to compute high-order corrections.
 
@@ -65,7 +65,7 @@ We developed a generalized many-body perturbation theory (MBPT), which bridges s
 
 2. Z. Li, J. Chem. Phys. 151, 244114 (2019)
 
-# Excited states: spin-adapted open-shell time-dependent DFT
+## Excited states: spin-adapted open-shell time-dependent DFT
 
 We developed spin-adapted time-dependent density functional theory (X-TD-DFT) for excited states of open-shell systems, which overcomes the excited-state spin contamination problem due to the incompleteness of excited configuration manifolds using tensor couplings[1]. We formulate the ways to include spin-orbit couplings[2] and define nonadiabatic couplings[3] within this framework. We are working on extending it to nonadiabatic dynamics of large open-shell molecules.
 
