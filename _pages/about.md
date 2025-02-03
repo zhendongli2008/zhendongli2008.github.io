@@ -14,9 +14,9 @@ I obtained my B.S. in Chemistry and Mathematics at the Peking University, China,
 
 Our current interests lie in understanding the structure of quantum many-body wavefunctions through the lens of perturbation theories, tensor network, neural networks, and quantum computing. Some topics we are working on include:
 
+- Tensor network and high performance computing for strong electron correlation
 - Quantum algorithms for electronic structure problems
-- High performance computing for strong electron correlation
-- Diagrammatic methods for dynamical correlation
+- Diagrammatic multi-reference methods for dynamical correlation
 - Wavefunction ansatz inspired from neural networks
 - Excited state methods based on wavefunction and time-dependent density functional theory
 

@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Group members"
+title: "Members"
 permalink: /groupmembers/
 author_profile: true
 ---
 
-## Current members
+## Current group members
 
 - Yuqi Wang (王雨奇) 博士后
 - Bohan Zhang (张博涵) 硕士生
@@ -17,7 +17,7 @@ author_profile: true
 - Haiqi Liu (刘海琦) 硕士生
 - Xingyang Zuo (左星阳) 硕士生
 
-## Former members
+## Former group members
 
 - Xiaoxiao Xiao (肖小小) 博士生 [北京量子信息科学研究院]
 - Diandong Tang (汤典东) 博士生 [华盛顿大学博士后]
