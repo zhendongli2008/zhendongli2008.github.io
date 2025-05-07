@@ -61,7 +61,7 @@ We developed a generalized many-body perturbation theory (MBPT), which bridges s
 
 **Reference**:
 
-1. Y. Wang, W.-H. Fang, Z. Li, arXiv:2410.22990 (2024)
+1. Y. Wang, W.-H. Fang, Z. Li, J. Phys. Chem. Lett. 16, 3047 (2025)
 
 2. Z. Li, J. Chem. Phys. 151, 244114 (2019)
 
