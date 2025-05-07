@@ -25,7 +25,7 @@ In our group, we develop new methods and computational tools for dealing with th
 
 We are interested in exploring tensor network states (TNS) beyond matrix product states such as comb TNS[1] and those hybridized with neural networks. We proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2], and developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[3]. These powerful tools will lead to quantitative accuracy for polynuclear transition metal complexes[4] using the state-of-the-art AI hardware. 
 
-<img src="../images/dmrg.jpg" width="550">
+<img src="../images/dmrg.jpg" width="600">
 
 **Reference**:
 
@@ -57,7 +57,7 @@ We are the first to develop quantum algorithms for molecular response properties
 
 We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation (MR-RPA) thorough diagrammatic resummation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants. This is an extension of our previous work on stochastic MBPT[2], which uses time-dependent diagrammatic formulation and Monte Carlo algorithm to compute high-order corrections.
 
-<img src="../images/rpa.jpg" width="500">
+<img src="../images/rpa.jpg" width="600">
 
 **Reference**:
 
@@ -69,7 +69,7 @@ We developed a generalized many-body perturbation theory (MBPT), which bridges s
 
 We developed spin-adapted time-dependent density functional theory (X-TD-DFT) for excited states of open-shell systems, which overcomes the excited-state spin contamination problem due to the incompleteness of excited configuration manifolds using tensor couplings[1]. We formulate the ways to include spin-orbit couplings[2] and define nonadiabatic couplings[3] within this framework. We are working on extending it to nonadiabatic dynamics of large open-shell molecules.
 
-<img src="../images/xtddft.jpg" width="600">
+<img src="../images/xtddft.jpg" width="800">
 
 **Reference**:
 
