@@ -8,13 +8,15 @@ author_profile: true
 ## Current members
 
 - Yuqi Wang (王雨奇) 博士后
+- Yunzhi Li (李昀之) 博士后
 - Zibo Wu (吴子博) 博士生
 - Hewang Zhao (赵贺旺) 博士生
 - Longfei Chang (常泷飞) 直博生
 - Bohan Zhang (张博涵) 硕士生
 - Hongbo Wang (王宏博) 硕士生
 - Haiqi Liu (刘海琦) 硕士生
-- Xingyang Zuo (左星阳) 硕士生
+- Hongling Shi (石洪菱) 硕士生
+- Jipeng Zhang (张冀鹏) 本科生 
 
 ## Former members
 
