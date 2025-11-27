@@ -21,9 +21,9 @@ In our group, we develop new methods and computational tools for dealing with th
 
 ## Strong correlation: novel ans&auml;tze and algorithms for emerging hardware
 
-### Tensor network states and high performance computing
+### Tensor network states, neural network quantum states and high performance computing
 
-We are interested in exploring tensor network states (TNS) beyond matrix product states such as comb TNS[1] and those hybridized with neural networks. We proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2], and developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[3]. These powerful tools will lead to quantitative accuracy for polynuclear transition metal complexes[4] using the state-of-the-art AI hardware. 
+We are interested in exploring tensor network states (TNS) beyond matrix product states such as comb TNS[1] and those hybridized with neural networks. We proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2], and developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[3]. We also developed hybrid wavefunction ansatz integrating matrix product states with neural networks, and present an efficient semi-stochastic algorithm for local energy evaluation[4]. These developments are contained in open-source codes (FOCUS and PyNQS), which will lead to quantitative accuracy for polynuclear transition metal complexes[5] using the state-of-the-art AI hardware. 
 
 <img src="../images/dmrg.jpg" width="600">
 
@@ -35,11 +35,13 @@ We are interested in exploring tensor network states (TNS) beyond matrix product
 
 3. C. Xiang, W. Jia, W.-H. Fang, Z. Li, J. Chem. Theory Comput. 20, 775-786 (2024)
 
-4. Z. Li, S. Guo, Q. Sun, G. K.-L. Chan, Nat. Chem. 11, 1026 (2019)
+4. Z. Wu, B. Zhang, W.-H. Fang, Z. Li, J. Chem. Theory Comput. 21, 10252–10262 (2025)
+
+5. Z. Li, S. Guo, Q. Sun, G. K.-L. Chan, Nat. Chem. 11, 1026 (2019)
 
 ### Quantum algorithms for electronic structure problems
 
-We are the first to develop quantum algorithms for molecular response properties[1] and performed real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4].
+We are the first to develop quantum algorithms for molecular response properties[1] and performed real experimental simulation of molecular absorption spectra on quantum hardware[2]. We are interested in designing new efficient quantum wavefunction ansatz[3] for studying multi-configurational problems using quantum computers[4]. The insight from quantum information is particularly rewarding for this purpose, leading to highly compact wavefunctions[5].
 
 <img src="../images/vqr.jpeg" width="500">
 
@@ -53,9 +55,11 @@ We are the first to develop quantum algorithms for molecular response properties
 
 4. S. Zhao, et al. J. Phys. Chem. Lett. 15, 7244-7253 (2024)
 
+5. Z. Li, Phys. Rev. Lett. 135, 210601 (2025)
+
 ## Dynamical correlation: diagrammatic multi-reference methods
 
-We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1]. Using this framework, we formulated a multi-reference random phase approximation (MR-RPA) thorough diagrammatic resummation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants. This is an extension of our previous work on stochastic MBPT[2], which uses time-dependent diagrammatic formulation and Monte Carlo algorithm to compute high-order corrections.
+We developed a generalized many-body perturbation theory (MBPT), which bridges standard MBPT in condense matter physics with multi-reference perturbation theory in quantum chemistry[1,2]. Using this framework, we formulated a multi-reference random phase approximation (MR-RPA) thorough diagrammatic resummation, which resums conventional ring diagrams and those including local insertion of two-body connection Green's functions/cumulants. This is an extension of our previous work on stochastic MBPT[3], which uses time-dependent diagrammatic formulation and Monte Carlo algorithm to compute high-order corrections.
 
 <img src="../images/rpa.jpg" width="600">
 
@@ -63,11 +67,13 @@ We developed a generalized many-body perturbation theory (MBPT), which bridges s
 
 1. Y. Wang, W.-H. Fang, Z. Li, J. Phys. Chem. Lett. 16, 3047 (2025)
 
-2. Z. Li, J. Chem. Phys. 151, 244114 (2019)
+2. Y. Wang, W.-H. Fang, Z. Li, J. Chem. Phys. 163, 174101 (2025)
+ 
+3. Z. Li, J. Chem. Phys. 151, 244114 (2019)
 
 ## Excited states: spin-adapted open-shell time-dependent DFT
 
-We developed spin-adapted time-dependent density functional theory (X-TD-DFT) for excited states of open-shell systems, which overcomes the excited-state spin contamination problem due to the incompleteness of excited configuration manifolds using tensor couplings[1]. We formulate the ways to include spin-orbit couplings[2] and define nonadiabatic couplings[3] within this framework. We are working on extending it to nonadiabatic dynamics of large open-shell molecules.
+We developed spin-adapted time-dependent density functional theory (X-TD-DFT) for excited states of open-shell systems, which overcomes the excited-state spin contamination problem due to the incompleteness of excited configuration manifolds using tensor couplings[1]. We formulate the ways to include spin-orbit couplings[2] and define nonadiabatic couplings[3] within this framework. We are working on extending it to spin-flip-down excitations[4] and nonadiabatic dynamics of large open-shell molecules.
 
 <img src="../images/xtddft.jpg" width="800">
 
@@ -79,3 +85,5 @@ We developed spin-adapted time-dependent density functional theory (X-TD-DFT) fo
 
 3. Z. Li and W. Liu, J. Chem. Phys. 141, 014110 (2014)
 
+4. H. Zhao and Z. Li, arXiv:2511.16906
+ 
