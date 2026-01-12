@@ -23,7 +23,7 @@ In our group, we develop new methods and computational tools for dealing with th
 
 ### Tensor network states, neural network quantum states and high performance computing
 
-We are interested in exploring tensor network states (TNS) beyond matrix product states such as comb TNS[1] and those hybridized with neural networks. We proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2], and developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[3]. We also developed hybrid wavefunction ansatz integrating matrix product states with neural networks, and present an efficient semi-stochastic algorithm for local energy evaluation[4]. These developments are contained in open-source codes (FOCUS and PyNQS), which will lead to quantitative accuracy for polynuclear transition metal complexes[5] using the state-of-the-art AI hardware. 
+We are interested in exploring tensor network states (TNS) beyond matrix product states such as comb TNS[1] and those hybridized with neural networks. We proposed an efficient relativistic DMRG algorithm using time-reversal symmetry[2], and developed the first distributed multi-GPU parrallelized ab initio DMRG algorithm[3]. We also developed hybrid wavefunction ansatz integrating matrix product states with neural networks, and present an efficient semi-stochastic algorithm for local energy evaluation[4]. These developments are contained in open-source codes (FOCUS and PyNQS), which will lead to quantitative accuracy for polynuclear transition metal complexes using the state-of-the-art AI hardware.
 
 <img src="../images/dmrg.jpg" width="600">
 
@@ -36,8 +36,6 @@ We are interested in exploring tensor network states (TNS) beyond matrix product
 3. C. Xiang, W. Jia, W.-H. Fang, Z. Li, J. Chem. Theory Comput. 20, 775-786 (2024)
 
 4. Z. Wu, B. Zhang, W.-H. Fang, Z. Li, J. Chem. Theory Comput. 21, 10252–10262 (2025)
-
-5. Z. Li, S. Guo, Q. Sun, G. K.-L. Chan, Nat. Chem. 11, 1026 (2019)
 
 ### Quantum algorithms for electronic structure problems
 

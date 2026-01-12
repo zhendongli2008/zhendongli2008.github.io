@@ -20,7 +20,6 @@ author_profile: true
 - Bohan Zhang (张博涵) 硕士生
 - Hongbo Wang (王宏博) 硕士生
 - Haiqi Liu (刘海琦) 硕士生
-- Hongling Shi (石洪菱) 硕士生
 
 ### Undergraduate students
 
