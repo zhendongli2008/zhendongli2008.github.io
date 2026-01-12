@@ -9,6 +9,8 @@ author_profile: true
 
 [**PyNQS**](https://github.com/Quantum-Chemistry-Group-BNU/PyNQS): a platform for exploring neural network quantum states for quantum chemistry
 
+**XTDDFT**: a platform for exploring excited states of open-shell systems
+
 [**BDF**](https://bdf-manual.readthedocs.io/zh-cn/latest/index.html)
 
 [**PySCF**](https://github.com/pyscf/pyscf)
