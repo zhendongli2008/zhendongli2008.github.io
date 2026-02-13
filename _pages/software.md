@@ -13,6 +13,8 @@ We develop the following software:
 
 [**XTDDFT**](https://github.com/Quantum-Chemistry-Group-BNU/XTDDFT): a platform for exploring excited states of open-shell systems
 
+For more projects, see [github](https://github.com/Quantum-Chemistry-Group-BNU).
+
 We contribute to the following general-purpose electronic structure packages:
 
 [**BDF**](https://bdf-manual.readthedocs.io/zh-cn/latest/index.html): a relativistic electronic structure program package
