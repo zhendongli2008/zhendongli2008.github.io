@@ -15,7 +15,7 @@ We develop the following software:
 
 We contribute to the following general-purpose electronic structure packages:
 
-[**BDF**](https://bdf-manual.readthedocs.io/zh-cn/latest/index.html)
+[**BDF**](https://bdf-manual.readthedocs.io/zh-cn/latest/index.html): a relativistic electronic structure program package
 
-[**PySCF**](https://github.com/pyscf/pyscf)
+[**PySCF**](https://github.com/pyscf/pyscf): the Python‐based simulations of chemistry framework
 
