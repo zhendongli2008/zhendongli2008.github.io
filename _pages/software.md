@@ -7,11 +7,13 @@ author_profile: true
 
 We develop the following software:
 
-[**FOCUS**](https://github.com/Quantum-Chemistry-Group-BNU/FOCUS): a platform for exploring tensor network states for quantum chemistry
+[**FOCUS**](https://github.com/Quantum-Chemistry-Group-BNU/FOCUS): tensor network states for quantum chemistry
 
-[**PyNQS**](https://github.com/Quantum-Chemistry-Group-BNU/PyNQS): a platform for exploring neural network quantum states for quantum chemistry
+[**PyNQS**](https://github.com/Quantum-Chemistry-Group-BNU/PyNQS): neural network quantum states for quantum chemistry
 
-[**XTDDFT**](https://github.com/Quantum-Chemistry-Group-BNU/XTDDFT): a platform for exploring excited states of open-shell systems
+[**MRMBPT**](https://github.com/Quantum-Chemistry-Group-BNU/MRMBPT): multi-reference diagrammatic MBPT methods
+
+[**XTDDFT**](https://github.com/Quantum-Chemistry-Group-BNU/XTDDFT): spin-adapted TDDFT for open-shell systems
 
 For more projects, see [github](https://github.com/Quantum-Chemistry-Group-BNU).
 
