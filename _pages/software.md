@@ -11,7 +11,7 @@ We develop the following software:
 
 [**PyNQS**](https://github.com/Quantum-Chemistry-Group-BNU/PyNQS): neural network quantum states for quantum chemistry
 
-[**MRMBPT**](https://github.com/Quantum-Chemistry-Group-BNU/MRMBPT): multi-reference diagrammatic MBPT methods
+[**MRMBPT**](https://github.com/Quantum-Chemistry-Group-BNU/MRMBPT): diagrammatic multi-reference MBPT methods
 
 [**XTDDFT**](https://github.com/Quantum-Chemistry-Group-BNU/XTDDFT): spin-adapted TDDFT for open-shell systems
 
