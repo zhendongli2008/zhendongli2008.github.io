@@ -13,3 +13,7 @@ Wavefunction-based Correlation Methods [<a href="https://github.com/zhendongli20
 
 Basics of Quantum Mechanics and Statistical Mechanics
 
+## Cheminformatics
+
+Deep learning and its applications in chemistry [<a href="https://github.com/zhendongli2008/DeepLearning">slides</a>]
+
