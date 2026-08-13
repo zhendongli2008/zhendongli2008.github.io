@@ -7,17 +7,14 @@ author_profile: true
 
 ## Courses
 
-- Advanced Quantum Chemistry 
+- Advanced Quantum Chemistry: 
+    - Wavefunction-based Correlation Methods [<a href="https://github.com/zhendongli2008/Lecture-Notes-On-Quantum-Chemistry">lecture notes</a>]
 
-Wavefunction-based Correlation Methods [<a href="https://github.com/zhendongli2008/Lecture-Notes-On-Quantum-Chemistry">lecture notes</a>]
+- Intermediate Physical Chemistry: 
+    - Basics of Quantum Mechanics and Statistical Mechanics
 
-- Intermediate Physical Chemistry 
-
-Basics of Quantum Mechanics and Statistical Mechanics
-
-- Cheminformatics
-
-Deep learning and its applications in chemistry [<a href="https://github.com/zhendongli2008/DeepLearning">slides</a>]
+- Cheminformatics:
+    - Deep learning and its applications in chemistry [<a href="https://github.com/zhendongli2008/DeepLearning">slides</a>]
 
 ## Summer schools
 
