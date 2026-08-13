@@ -40,10 +40,6 @@ author_profile: true
     - [Single-Reference ab Initio Methods for the Calculation of Excited States of Large Molecules](https://pubs.acs.org/doi/full/10.1021/cr0505627) by A. Dreuw and M. Head-Gordon
     - [Time-dependent density functional response theory for molecules](https://www.researchgate.net/publication/279338123_Time-Dependent_Density_Functional_Response_Theory_for_Molecules) by M. E. Casida
 
-## Talks
-
-- [2023 量子计算化学菁致讲习班](https://www.koushare.com/video/videodetail/73730)
-
 ## Writing
 
 - [overleaf](https://www.overleaf.com/): online latex editor
