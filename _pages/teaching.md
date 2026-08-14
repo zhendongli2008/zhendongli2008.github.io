@@ -20,5 +20,5 @@ author_profile: true
 
 - [2023 量子计算化学菁致讲习班](https://www.koushare.com/video/videodetail/73730)
 
-- [2026 电子结构理论与方法菁致讲习班](https://www.koushare.com/live/details/52942)
+- [2026 电子结构理论与方法菁致讲习班](https://www.koushare.com/live/details/52942?vid=220114) [<a href="https://github.com/zhendongli2008/Open-Shell-Electronic-Structure-Theories">notes</a>]
 
